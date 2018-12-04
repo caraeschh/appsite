@@ -1,0 +1,46 @@
+.jumbotron {
+    margin-top: 20px;
+background-image: url("booknow_images/matt-nelson-259365-unsplash%20(1).jpg");
+background-size: cover;
+    height: 220px;
+    opacity: 60%;
+}
+h5{
+    color: White;
+    font-size:60px;
+}
+h2{
+    color: #1A5281;
+}
+h4{
+    color: #1A5281;
+    font-size: 70px;
+    text-align: center;
+}
+p{
+    font-size: 23px;
+    font-family: 'Acme', sans-serif;
+    margin-top: 10px;
+}
+.text-block {
+    position:center;
+    left: 5%;
+    right: 5%;
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+    padding-left: 20px;
+    padding-right: px;
+}
+body{
+    background-color: #F3ECEC;
+}
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #B8D8B8;
+    border-color: #B8D8B8;
+    color: black;
+}
